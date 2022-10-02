@@ -29,7 +29,7 @@ public class HelloWorld {
 
         if (qp == true) {
             System.out.println("Правда!");
-        } else if (qp != true) {
+        } else {
             System.out.println("Лож!");
         }
     }
